@@ -1623,3 +1623,7 @@ a {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%); }
+
+.justify-content-space-between {
+  justify-content: space-between;
+}
